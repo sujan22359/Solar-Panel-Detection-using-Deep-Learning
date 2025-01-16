@@ -11,8 +11,7 @@ This project aims to detect solar panels in images using Convolutional Neural Ne
 - [Evaluation](#evaluation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 1. Clone the repository:
@@ -55,10 +54,4 @@ To use the trained model for prediction:
 ## Results
 The model achieved high accuracy and ROC-AUC score on the test set, demonstrating its effectiveness in detecting solar panels. Below are some sample predictions:
 
-## Contributing
-Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to this project.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-     You can update your README.md file with this content to make it more comprehensive and informative.
 
