@@ -35,7 +35,7 @@ To use the trained model for prediction:
    # Load the model:
 
      from tensorflow.keras.models import load_model
-     model = load_model('solar_panel_detection_model.joblib')
+     model = load_model('solar_panel_detection_model.h5')
    # Make predictions on new images:
 
      import cv2
