@@ -11,7 +11,7 @@ This project aims to detect solar panels in images using Convolutional Neural Ne
 - [Evaluation](#evaluation)
 - [Usage](#usage)
 - [Results](#results)
-- [Conclution](#conclution)
+
 
 
 ## Installation
