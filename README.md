@@ -53,6 +53,6 @@ To use the trained model for prediction:
      result = predict('path_to_image.jpg', model)
      print(result)
 ## Results
-The model achieved high accuracy and ROC-AUC score on the test set, demonstrating its effectiveness in detecting solar panels. Below are some sample predictions:
+The model achieved high accuracy and ROC-AUC score on the test set, demonstrating its effectiveness in detecting solar panels. 
 
 
